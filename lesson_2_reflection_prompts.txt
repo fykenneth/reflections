@@ -6,3 +6,6 @@
 
 3.How can you use the staging area to make sure you have one commit per logical change?
 	Use commend git stage, and you can see and check how many files u add to the staging area. And if there is only one file in the staging area, you can make sure the commit you make now whould only be that one file change.
+
+4.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	When you are not doing linear progress on your project anymore. If you want do make a different version of your project, or try a new thing but still want to keep a origional or offical version, branch is a good way to do it.
