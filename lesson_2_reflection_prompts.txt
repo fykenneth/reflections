@@ -17,3 +17,7 @@
 6.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 	Two branches become one branch, but the new commit keeps all the old commit history.
+
+7.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	If it automaticly merge the files, the result might be the one we dont want, since it is guessing which lines you want when conflicts occurs. Doing merging manually can make sure anything goes under our countrol.
