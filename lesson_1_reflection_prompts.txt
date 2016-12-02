@@ -6,27 +6,27 @@ was introduced?
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
-    Fill in your answer here
+    So u can easily recover your file in any situation.
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
-    Fill in your answer here
+   Although manually doing commit is tidious in some way, but the commit are truely logical under that situation.
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Fill in your answer here
+    For git, each commit mean the progress for the entire project. So that;s why git treat whole as one.
 
 How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+    Log for the history of a branch, and diff compares to files.
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    So u can recover at any time.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
