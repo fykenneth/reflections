@@ -14,3 +14,6 @@
 
 	The diagrams clearly shows the relationship between brenches.
 
+6.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Two branches become one branch, but the new commit keeps all the old commit history.
