@@ -3,3 +3,7 @@
 
 2.Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 	So you can decide when you want and what phase or files you want to show to pubic.
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Fork is to paste other's file to your git repository. Clone is only between your own spaces. Like github, and your local cp. branches means simply different version of your repository.
